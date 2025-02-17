@@ -1,4 +1,4 @@
-# HxCompileU
+# HxCompileU (HashLink version)
 
 ### CURRENTLY THIS PROJECT IS NOT FULLY FUNCTIONAL, AND YOU MUST USE LINUX TO USE IT (Maybe WSL is also useful?).
 
