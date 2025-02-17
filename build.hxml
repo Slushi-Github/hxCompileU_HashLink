@@ -1,0 +1,7 @@
+-cp src
+-main src.Main
+-cpp export
+-D HAXE_OUTPUT_PART=haxeCompileUHL
+--resource templates/makefileSimpleAppWUT@cafeMakefileWUT
+# -lib hxcpp-debug-server
+-D report-error-style=pretty
