@@ -1,3 +1,8 @@
+# PLEASE DON'T USE THIS PROJECT, IT IS USELESS AND IT WAS JUST AN EXPERIMENT. 
+Use [HxCompileU](https://github.com/Slushi-Github/hxCompileU) instead as this project was based on it in the first place.
+
+---------------------------------------------------------------------
+
 # HxCompileU (HashLink version)
 
 ### CURRENTLY THIS PROJECT IS NOT FULLY FUNCTIONAL, AND YOU MUST USE LINUX TO USE IT (Maybe WSL is also useful?).
